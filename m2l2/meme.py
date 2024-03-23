@@ -52,4 +52,4 @@ async def trash(ctx):
                            
  
 
-bot.run("MTIxMzQ3MDY1MjMzODU0MDYwNA.G1w_9M.VY9MMEaxPVAhVS5S4ICEwJOzM_tv6PrC8Mq5Q4")
+
